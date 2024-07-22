@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="parchment">#FCF5E5</color>
+    <color name="blush_pink">#FFC0CB</color>
+    <color name="sky_Blue">#87CEEB</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="rust_red">#A52A2A</color>
+    <color name="brick_red">#B22222</color>
+    <color name="terracotta">#E2725B</color>
+    <color name="orange_red">#FF4500</color>
+</resources>

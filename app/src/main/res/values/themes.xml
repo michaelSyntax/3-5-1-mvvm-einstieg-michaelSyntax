@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ReadMe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary. -->
+        <item name="colorPrimary">@color/rust_red</item>
+        <item name="colorPrimaryVariant">@color/rust_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary. -->
+        <item name="colorSecondary">@color/blush_pink</item>
+        <item name="colorSecondaryVariant">@color/blush_pink</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status Bar. -->
+        <item name="android:statusBarColor">@color/rust_red</item>
+    </style>
+</resources>
