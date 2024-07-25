@@ -32,7 +32,7 @@
 
     </androidx.appcompat.widget.Toolbar>
 
-    <fragment
+    <androidx.fragment.app.FragmentContainerView
         android:id="@+id/startFragment"
         android:name="de.syntax_institut.readme.ui.HomeFragment"
         android:layout_width="match_parent"
